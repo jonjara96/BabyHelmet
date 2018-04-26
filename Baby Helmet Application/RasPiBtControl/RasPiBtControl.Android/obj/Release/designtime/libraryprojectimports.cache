@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/0/jl/formsviewgroup.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/23/jl/arch-core-common.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/24/jl/arch-lifecycle-common.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/25/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/26/jl/support-annotations.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/27/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/28/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/29/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/30/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/31/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/32/jl/bin/classes.jar</Jar>
+    <Jar>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/33/jl/bin/classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/2/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/4/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/27/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/31/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/32/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/20/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/21/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Release/lp/2/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/lp/4/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/lp/20/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/lp/21/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/27.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/31.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/32.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/20.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/pablo/Desktop/raspibt-master/Baby Helmet Application/RasPiBtControl/RasPiBtControl.Android/obj/Release/lp/21.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

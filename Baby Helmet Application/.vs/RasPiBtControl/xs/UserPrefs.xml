@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4CD93148-DF16-440D-8324-710B460953C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RasPiBtControl/RasPiBtControl.Android/MainActivity.cs">
+    <Files>
+      <File FileName="packages/Xamarin.Forms.2.5.1.444934/build/netstandard1.0/Xamarin.Forms.targets" Line="55" Column="3" />
+      <File FileName="RasPiBtControl/RasPiBtControl.Android/Services/BtClient.cs" Line="80" Column="17" />
+      <File FileName="RasPiBtControl/RasPiBtControl.Android/Resources/Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="RasPiBtControl/RasPiBtControl/UI/LandingPageViewModel.cs" Line="58" Column="45" />
+      <File FileName="RasPiBtControl/RasPiBtControl.Android/MainActivity.cs" Line="22" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RasPiBtControl.Android PreferredExecutionTarget="Android.pixel_xl" />
+  <MultiItemStartupConfigurations />
+</Properties>
